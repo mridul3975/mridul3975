@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Uday Sharma
+# 👋 Hi, I'm Mridul Tiwari
 
 ### 🚀 Developer • AI/ML Enthusiast • Problem Solver
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=udaysharmadey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mridul3975&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 </div>
@@ -14,7 +14,6 @@
 
 <div align="center">
 
-<!-- Replace this with your GIF after uploading it to the repository -->
 <img src="./assets/chibi-coding.gif" width="420" alt="Chibi anime character coding" />
 
 </div>
@@ -23,12 +22,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer from **India** who enjoys building software, solving algorithmic problems, and exploring **Artificial Intelligence and Machine Learning**.
+I'm a developer from **India** passionate about building software, solving challenging problems, and exploring **Artificial Intelligence and Machine Learning**.
 
 - 🔭 Currently working on **AI / ML and software projects**
-- 🌱 Currently learning **Machine Learning, DSA & advanced problem solving**
+- 🌱 Currently learning **Machine Learning, Data Structures & Algorithms**
 - 💻 Interested in **Software Engineering, AI/ML and Backend Development**
-- 🧠 I enjoy understanding how things work under the hood
+- 🧠 I enjoy solving algorithmic problems and understanding how systems work
 - 🤝 Open to interesting projects and collaborations
 - ⚡ Always learning, building and experimenting
 
@@ -36,25 +35,25 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css" />
 </p>
 
-### Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
 </p>
 
-### Databases & Tools
+### 🗄️ Databases & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
 </p>
 
-### AI / Data
+### 🤖 AI / Data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
@@ -66,9 +65,9 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=udaysharmadey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mridul3975&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadey&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul3975&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
 
 </div>
 
@@ -76,7 +75,7 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=udaysharmadey&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com/?user=mridul3975&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -86,7 +85,7 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadey&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul3975&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -96,7 +95,7 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/udaysharmadey/udaysharmadey/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/mridul3975/mridul3975/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -106,26 +105,12 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<a href="https://github.com/udaysharmadey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mridul3975/interview-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mridul3975&repo=interview-ai&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/udaysharmadey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/udaysharmadey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/udaysharmadey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mridul3975/Speakspin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mridul3975&repo=Speakspin&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -136,8 +121,10 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/jsonmridul">
+
+<img src="https://leetcard.jacoblin.cool/jsonmridul?theme=dark&font=baloo&ext=heatmap" alt="Mridul's LeetCode Stats" />
+
 </a>
 
 </div>
@@ -146,45 +133,62 @@ I'm a developer from **India** who enjoys building software, solving algorithmic
 
 # 📚 Currently Learning
 
-```text
-Data Structures & Algorithms
-        ↓
-Dynamic Programming
-        ↓
-Greedy Algorithms
-        ↓
-Graph Algorithms
-        ↓
-Machine Learning
-        ↓
-AI / ML Engineering
-```
+<div align="center">
+
+`Data Structures & Algorithms`  
+↓  
+`Dynamic Programming`  
+↓  
+`Greedy Algorithms`  
+↓  
+`Graph Algorithms`  
+↓  
+`Machine Learning`  
+↓  
+`AI / ML Engineering`
+
+</div>
 
 ---
 
 # 💻 What I Like Building
 
-```text
-🤖 AI / Machine Learning
-⚙️ Backend Systems
-🌐 Full-Stack Applications
-🧩 Algorithmic Solutions
-📊 Data & ML Projects
-🚀 Developer Tools
-```
+<div align="center">
+
+🤖 **AI / Machine Learning**
+
+⚙️ **Backend Systems**
+
+🌐 **Full-Stack Applications**
+
+🧩 **Algorithmic Solutions**
+
+📊 **Data & ML Projects**
+
+🚀 **Developer Tools**
+
+</div>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://github.com/mridul3975">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/udaysharmadey">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/mriduldev">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/jsonmridul">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" alt="LeetCode" />
 </a>
 
 </div>
@@ -193,7 +197,7 @@ AI / ML Engineering
 
 <div align="center">
 
-📫 **Email:** YOUR_EMAIL@example.com
+📫 **Email:** mridul3975@gmail.com
 
 </div>
 
