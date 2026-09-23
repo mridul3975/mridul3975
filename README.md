@@ -4,6 +4,10 @@
 
 ### 🚀 Developer • AI/ML Enthusiast • Problem Solver
 
+<img src="./anime-coding.gif"
+     width="600"
+     alt="Mridul Tiwari">
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=mridul3975&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
