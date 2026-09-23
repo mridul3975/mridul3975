@@ -1,37 +1,208 @@
-<h1 align="center">Hi 👋, I'm Mridul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul3975&label=Profile%20views&color=0e75b6&style=flat" alt="mridul3975" /> </p>
+# 👋 Hi, I'm Uday Sharma
 
-- 🔭 I’m currently working on [Interview Ai](https://github.com/mridul3975/interview-ai)
+### 🚀 Developer • AI/ML Enthusiast • Problem Solver
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on [SpeakSpin](https://github.com/mridul3975/Speakspin)
-
-- 🤝 I’m looking for help with [Interview Ai](https://github.com/mridul3975/interview-ai)
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📝 I regularly write articles on [link](link)
-
-- 💬 Ask me about **Backend**
-
-- 📫 How to reach me **mridul3975@gmail.com**
-
-- 📄 Know about my experiences [link](link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mriduldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mriduldev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jsonmridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jsonmridul" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadey&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridul3975&show_icons=true&locale=en&layout=compact" alt="mridul3975" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridul3975&show_icons=true&locale=en" alt="mridul3975" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul3975&" alt="mridul3975" /></p>
+<!-- Replace this with your GIF after uploading it to the repository -->
+<img src="./assets/chibi-coding.gif" width="420" alt="Chibi anime character coding" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer from **India** who enjoys building software, solving algorithmic problems, and exploring **Artificial Intelligence and Machine Learning**.
+
+- 🔭 Currently working on **AI / ML and software projects**
+- 🌱 Currently learning **Machine Learning, DSA & advanced problem solving**
+- 💻 Interested in **Software Engineering, AI/ML and Backend Development**
+- 🧠 I enjoy understanding how things work under the hood
+- 🤝 Open to interesting projects and collaborations
+- ⚡ Always learning, building and experimenting
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,vscode" />
+</p>
+
+### AI / Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=udaysharmadey&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadey&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=udaysharmadey&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadey&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/udaysharmadey/udaysharmadey/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/udaysharmadey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/udaysharmadey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/udaysharmadey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/udaysharmadey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadey&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Dynamic Programming
+        ↓
+Greedy Algorithms
+        ↓
+Graph Algorithms
+        ↓
+Machine Learning
+        ↓
+AI / ML Engineering
+```
+
+---
+
+# 💻 What I Like Building
+
+```text
+🤖 AI / Machine Learning
+⚙️ Backend Systems
+🌐 Full-Stack Applications
+🧩 Algorithmic Solutions
+📊 Data & ML Projects
+🚀 Developer Tools
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/udaysharmadey">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 **Email:** YOUR_EMAIL@example.com
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+
+</div>
