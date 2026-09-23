@@ -2,6 +2,7 @@
 <img src="./anime-coding.gif"
      width="600"
      alt="Mridul Tiwari">
+
 # Mridul Tiwari
 
 ### 🚀 Developer • AI/ML Enthusiast • Problem Solver
