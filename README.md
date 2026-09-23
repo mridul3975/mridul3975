@@ -86,41 +86,6 @@ I'm a developer from **India** passionate about building software, solving chall
 
 ---
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul3975&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mridul3975/mridul3975/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mridul3975/interview-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mridul3975&repo=interview-ai&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mridul3975/Speakspin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mridul3975&repo=Speakspin&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
 
 # 🧠 Problem Solving
 
